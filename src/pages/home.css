@@ -1,0 +1,8 @@
+body,
+html {
+  align-items: center;
+}
+.spoon {
+    display: flex;
+    justify-content: center;
+}
